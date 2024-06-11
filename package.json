@@ -5,7 +5,9 @@
   "author": "Tanhapon Tosirikul",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "ts-node src/main.ts",
+    "build": "tsc && node bin/main.js"
   },
   "dependencies": {
     "@types/node": "^20.14.2",

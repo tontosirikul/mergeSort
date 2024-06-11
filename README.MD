@@ -14,3 +14,12 @@ run the test
 yarn test
 ```
 
+run the demo with ts-node
+```bash
+yarn start
+```
+
+run the demo with java script node
+```bash
+yarn build
+```
