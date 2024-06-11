@@ -1,6 +1,6 @@
 export function mergeSort(collection1: number[], collection2: number[], collection3: number[]): number[] {
     const mergedArray: number[] = [];
-
+    // initialised pointer from min to max for each
     let i = 0, j = collection2.length - 1, k = 0;
 
     while (i < collection1.length && j >= 0 && k < collection3.length) {
