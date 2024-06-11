@@ -2,7 +2,18 @@
 
 This repository contains a merge sort demo with jest unit tests.
 
+## Requirements
+
+- Node.js (version 14 or later)
+- Yarn (version 1.22.10 or later)
+
 ## Installation and Running
+
+Clone the repository
+```bash
+git clone https://github.com/tontosirikul/mergeSort.git
+cd mergeSort
+```
 
 install dependencies
 ```bash
